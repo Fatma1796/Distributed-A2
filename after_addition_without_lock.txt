@@ -1,0 +1,33 @@
+Year,Course Name,Grade,University
+2024,Cyber Security,82,MIT
+2023,Data Structures,78,UC Berkeley
+2024,Machine Learning,80,Oxford University
+2024,Software Engineering,99,Stanford University
+2023,Cyber Security,78,Oxford University
+2022,Computer Vision,85,UC Berkeley
+2024,Machine Learning,65,Stanford University
+2024,Computer Vision,82,Cambridge University
+2022,Artificial Intelligence,67,Cambridge University
+2023,Software Engineering,70,Cambridge University
+2023,Software Engineering,85,MIT
+2022,Data Structures,91,UC Berkeley
+2023,Computer Vision,71,UC Berkeley
+2022,Artificial Intelligence,76,Oxford University
+2024,Data Structures,86,MIT
+2023,Software Engineering,66,Harvard University
+2023,Computer Vision,66,MIT
+2023,Machine Learning,80,Cambridge University
+2022,Artificial Intelligence,63,Stanford University
+2023,Artificial Intelligence,69,Cambridge University
+2024,Data Structures,95,Harvard University
+2022,Artificial Intelligence,98,UC Berkeley
+2023,Machine Learning,94,MIT
+2024,Machine Learning,67,Oxford University
+2023,Data Structures,69,Cambridge University
+2023,Machine Learning,65,Harvard University
+2024,Software Engineering,61,MIT
+2022,Cyber Security,76,Oxford University
+2024,Machine Learning,78,Oxford University
+2022,Software Engineering,89,Cambridge University
+2022,Machine Learning,65,MIT
+2023,Software Engineering,95,Cambridge University

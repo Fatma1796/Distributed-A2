@@ -1,0 +1,51 @@
+Year,Course Name,Grade,University
+2022,Artificial Intelligence,73,Oxford University
+2023,Machine Learning,69,Oxford University
+2023,Artificial Intelligence,60,Oxford University
+2024,Data Structures,74,Harvard University
+2024,Cyber Security,96,Stanford University
+2022,Machine Learning,79,Harvard University
+2024,Cyber Security,67,MIT
+2024,Computer Vision,94,Stanford University
+2023,Data Structures,78,Stanford University
+2023,Cyber Security,98,Stanford University
+2023,Data Structures,86,UC Berkeley
+2022,Machine Learning,82,Stanford University
+2024,Data Structures,76,Stanford University
+2024,Cyber Security,60,Cambridge University
+2022,Software Engineering,69,Harvard University
+2022,Artificial Intelligence,79,UC Berkeley
+2022,Cyber Security,81,Harvard University
+2023,Computer Vision,79,Oxford University
+2024,Artificial Intelligence,96,MIT
+2022,Artificial Intelligence,88,Stanford University
+2023,Cyber Security,100,MIT
+2024,Artificial Intelligence,60,MIT
+2022,Cyber Security,82,UC Berkeley
+2023,Artificial Intelligence,61,Stanford University
+2022,Data Structures,78,UC Berkeley
+2024,Cyber Security,82,Harvard University
+2023,Computer Vision,87,Stanford University
+2022,Machine Learning,69,MIT
+2022,Cyber Security,80,Cambridge University
+2023,Machine Learning,85,Harvard University
+2022,Data Structures,70,Stanford University
+2022,Cyber Security,73,Stanford University
+2023,Data Structures,67,UC Berkeley
+2024,Computer Vision,92,MIT
+2024,Data Structures,87,Oxford University
+2024,Cyber Security,99,MIT
+2023,Machine Learning,89,UC Berkeley
+2022,Data Structures,87,Cambridge University
+2024,Cyber Security,94,Stanford University
+2024,Computer Vision,64,Stanford University
+2023,Computer Vision,78,MIT
+2024,Artificial Intelligence,81,Cambridge University
+2022,Data Structures,77,MIT
+2024,Artificial Intelligence,95,Stanford University
+2024,Cyber Security,69,Stanford University
+2023,Artificial Intelligence,79,UC Berkeley
+2022,Computer Vision,81,Harvard University
+2024,Software Engineering,91,Cambridge University
+2023,Cyber Security,85,UC Berkeley
+2024,Data Structures,92,MIT
